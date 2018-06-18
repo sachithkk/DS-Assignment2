@@ -1,4 +1,4 @@
-1 : Open project using IDE (webtorm or visual studio code)
+1 : Open project using IDE (webstorm or visual studio code)
 
 2 : Open CMD inside the Source-Code-Back-End-Front-End  folder and type npm install
 

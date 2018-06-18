@@ -1,0 +1,32 @@
+{ 
+    "_id" : ObjectId("5b1bd075d0866914f4be077c"), 
+    "fname" : "Roshen", 
+    "lname" : "Hansaga", 
+    "email" : "roshen@gmail.com", 
+    "password" : "$2a$05$rRCzzpJEvoqQNifnVEIMMO0AO7CmdTImLeUX1RvRa1quoH3r6aevu", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b1c9b3880c7b029ac278d9c"), 
+    "fname" : "Dulip", 
+    "lname" : "Tennakoone", 
+    "email" : "dulip@gmail.com", 
+    "password" : "$2a$05$qBR7Xztel.LruM4SJN4Rd.8fpnQ0qUNIZBRK0Sb/hvg0VMEDdybA2", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b1ca2c19e374330bc512171"), 
+    "fname" : "Chathuranga", 
+    "lname" : "Lakmal", 
+    "email" : "lakmal@gmail.com", 
+    "password" : "$2a$05$QGPhX5/HdUYlvyyZtOSKNO86gArY3bbiXqQdMs.nSrjTV62HCc./m", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b1d4d3329609e02e0b6a9a1"), 
+    "fname" : "Chathuranga", 
+    "lname" : "Lakmal", 
+    "email" : "chathuranga@gmail.com", 
+    "password" : "$2a$05$jJX6/.mn8xNOgEievvXIBeTC0vmCPFR9omRd33/lYYHi2/VvpXJNm", 
+    "__v" : NumberInt(0)
+}

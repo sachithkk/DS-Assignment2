@@ -1,0 +1,24 @@
+{ 
+    "_id" : ObjectId("5b1bcf02ed40bf1414813103"), 
+    "imagePath" : "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?cs=srgb&dl=basil-dinner-food-8500.jpg&fm=jpg", 
+    "title" : "HOT CHILI CHICKEN NOODLES", 
+    "description" : "Extra hot Chinese noodles with classic Chinese ingredients and peppers", 
+    "price" : "350", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b1bcf02ed40bf1414813104"), 
+    "imagePath" : "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?cs=srgb&dl=chips-dinner-fast-food-70497.jpg&fm=jpg", 
+    "title" : "SPICY CRISPY CHICKEN SANDWICH", 
+    "description" : "Spicy Crispy Chicken Burger made with juicy, tender and crispy 100% white meat chicken", 
+    "price" : NumberInt(1200), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b1bcf02ed40bf1414813105"), 
+    "imagePath" : "https://images.pexels.com/photos/724216/pexels-photo-724216.jpeg?cs=srgb&dl=baked-beer-cheese-724216.jpg&fm=jpg", 
+    "title" : "SPICY CHEESE CHICKEN PIZZA", 
+    "description" : "A spicy chicken pizza with a tomato base, mozzarella, chilli, onions and moshrooms", 
+    "price" : "1700", 
+    "__v" : NumberInt(0)
+}

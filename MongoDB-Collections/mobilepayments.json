@@ -1,0 +1,24 @@
+{ 
+    "_id" : ObjectId("5b1ca2d89e374330bc512172"), 
+    "name" : "Chathuranga", 
+    "email" : "lakmal@gmail.com", 
+    "totalPrice" : "700", 
+    "Pnumber" : "0712908900", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b1ca30d9e374330bc512173"), 
+    "name" : "Roshen", 
+    "email" : "roshen@gmail.com", 
+    "totalPrice" : "3600", 
+    "Pnumber" : "0771234567", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b1d4a3c29609e02e0b6a9a0"), 
+    "name" : "pulasthi", 
+    "email" : "pulasthi@gmail.com", 
+    "totalPrice" : "1200", 
+    "Pnumber" : "0771234567", 
+    "__v" : NumberInt(0)
+}

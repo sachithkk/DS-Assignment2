@@ -1,0 +1,13 @@
+.navbar-default{
+    background-color: black;
+    color: white;
+}
+.btn-primary{
+    margin-left: 100px;
+}
+.singup-form{
+    background-color: gray;
+}
+.social-login{
+    margin-top: 20px;
+}

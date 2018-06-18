@@ -1,0 +1,5 @@
+{ 
+    "_id" : "g-Rr9YRnVsOOvNOxNhIxfc6gwcfijeAc", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":10800000,\"expires\":\"2018-06-10T19:10:44.184Z\",\"httpOnly\":true,\"path\":\"/\"},\"flash\":{\"success\":[\"Successfully Payed Please Check Yor Email\"]},\"csrfSecret\":\"3Fjc-JaFBHfUGU2-OeiBc5nv\",\"cart\":null,\"oldUrL\":\"/checkout\",\"passport\":{\"user\":\"5b1d4d3329609e02e0b6a9a1\"}}", 
+    "expires" : ISODate("2018-06-10T19:10:44.223+0000")
+}

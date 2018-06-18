@@ -1,0 +1,36 @@
+<div class="row">
+    <div class=" panel panel-primary col-sm-6 col-md-4 col-mf-offset-4 col-sm-offset-4">
+        <form action="/mobile-checkout" method="post" id="">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="form-group">
+                        <label>Name:</label>
+                        <input type="text" id="name" class="form-control" name="name"/>
+                    </div>
+                </div>
+
+                <div class="col-xs-12">
+                    <div class="form-group">
+                        <label>Email:</label>
+                        <input type="text" id="email" class="form-control" name="email"/>
+                    </div>
+                </div>
+
+                <div class="col-xs-12">
+                    <div class="form-group">
+                        <label>Total Price:</label>
+                        <input type="text" id="total" class="form-control" name="total" value="{{total}}"/>
+                    </div>
+                </div>
+
+                <div class="col-xs-12">
+                    <div class="form-group">
+                        <label>Phone Number:</label>
+                        <input type="text" id="number" class="form-control" name="number"/>
+                    </div>
+            </div>
+                <button style="margin-left: 18px" type="submit" class="btn btn-primary">Pay</button>
+                <hr/>
+        </form>
+    </div>
+</div>
